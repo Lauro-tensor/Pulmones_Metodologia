@@ -160,7 +160,7 @@ npm run dev
 
 
 ------------------------------------------------------------------------
-## Colaboradores
+## Contributors
 
 
 -   **\[Kevin Merlin Cabrera Coyotzi\]** - \[https://github.com/WPA-PROGRAMMING\]\
