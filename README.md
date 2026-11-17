@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner - Lung Pathology Classification"/>
+  <img src="./shoot.png" alt="Banner - Lung Pathology Classification"/>
 </p>
 
 # Lung Pathology Classification Using Transfer Learning and Classical Methods
